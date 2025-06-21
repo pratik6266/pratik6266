@@ -51,10 +51,10 @@
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| **[Cloak Feedback](https://cloak-feedback-five.vercel.app/)** | Anonymous feedback system with roles | `React`, `Node.js`, `MongoDB`, `Socket.io` | ✅ |
-| **[Blogify](https://blogify-pratik-raj.vercel.app/)** | A clean, full-featured blog platform | `React`, `Express`, `MongoDB` | ✅ |
-| **[Checkmate](https://github.com/pratik6266/checkmate)** | Real-time chess with Socket.io | `Node.js`, `Socket.io`, `chess.js` | 🔗 GitHub |
-| **[Soloroom](https://soloroom-pratik-raj.vercel.app/)** | Private group discussion platform | `React`, `Express`, `Socket.io` | ✅ |
+| **[Cloak Feedback](https://cloak-feedback-five.vercel.app/)** | Anonymous feedback system with roles | `React`, `Prisma`, `PostgreSQL` | ✅ |
+| **[Blogify](https://blogify-pratik-raj.vercel.app/)** | A clean, full-featured blog platform | `React`, `Express`, `MySQL` | ✅ |
+| **[Checkmate](https://github.com/pratik6266/Chess)** | Real-time chess with Socket.io | `Node.js`, `Socket.io`, `chess.js` | 🔗 GitHub |
+| **[Soloroom](https://solo-room.vercel.app/)** | Private group discussion platform | `React`, `Express`, `Socket.io` | ✅ |
 
 ---
 
