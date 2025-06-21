@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm <span style="color:#00bfff">Pratik Raj</span> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00bfff&width=435&lines=Full+Stack+Developer;Software+Engineer+Intern;Competitive+Programmer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00bfff&width=600&center=true&vCenter=true&lines=Full+Stack+Developer;Software+Engineer+Intern;Competitive+Programmer;Always+Learning+Something+New&duration=4000" alt="Typing SVG" />
 </p>
 
 ---
