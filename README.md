@@ -14,7 +14,7 @@
 - 🎯 Solved over **1000+ coding problems**  
 - 🏆 Achievements:
   - GFG Rank: **#26**
-  - LeetCode Rating: **39,091**
+  - LeetCode Rating: **Under 35K**
   - Coding Ninjas: **Ninja Dominator**
 
 ---
