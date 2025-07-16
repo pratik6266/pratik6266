@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Final-year B.Tech IT student with a **9.42 CGPA**
-- 💼 **Software Engineer Intern @ Vaid PR**
+- 💼 **Software Engineer Intern @ AP Moller Maersk**
 - 🧠 I love building full-stack web apps and solving DSA problems
 - 🚀 Currently exploring **System Design**, **Kubernetes**, **Kafka**, and **Redis**
 - 🎯 Solved over **1000+ coding problems**  
